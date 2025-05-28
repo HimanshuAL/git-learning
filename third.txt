@@ -1,2 +1,4 @@
 This is third file
 This is second line
+This change is for commit
+This is testing of git reset --soft HEAD~1
