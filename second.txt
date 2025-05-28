@@ -3,3 +3,4 @@ some changes added
 now do git reset --mixed HEAD~1
 hello xx
 stash ccccc
+now git revert
