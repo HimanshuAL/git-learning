@@ -1,1 +1,2 @@
 practice of git reset --mixed HEAD~1
+some changes added
