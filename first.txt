@@ -1,5 +1,2 @@
-practice of git reset --mixed HEAD~1
-some changes added
-now do git reset --mixed HEAD~1
-second time do git reset --mixed HEAD~1 xxx
-now fire git reset --mixed HEAD~1
+now do git reset --hard HEAD~1
+stash changes
