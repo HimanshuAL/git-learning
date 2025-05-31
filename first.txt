@@ -1,6 +1,0 @@
-now do git reset --hard HEAD~1
-stash changes
-hello xx
-stash ccccc
-add extra changes
-now testing git revert
