@@ -4,4 +4,4 @@ now do git reset --mixed HEAD~1
 hello xx
 stash ccccc
 add extra changes
-add another extra changes xx
+now testing git revert
