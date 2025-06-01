@@ -6,3 +6,4 @@ for feature 1(2)
 add comment feature
 add insta feature
 add facebook feature
+add x feature
