@@ -4,3 +4,4 @@ for feature 1
 added chat-feature
 for feature 1(2)
 add comment feature
+add insta feature
